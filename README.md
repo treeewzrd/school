@@ -17,3 +17,7 @@ Preserved as a learning reference; production deployment and current compatibili
 The workflow files are examples; they are not active GitHub Actions workflows in their current directory. See TECH-QUIZ for the related quiz coursework.
 
 Original coursework materials are retained in the source. Preserve their existing attribution and notices.
+
+## Curriculum attribution
+
+Based on edX Boot Camps coursework. Original curriculum notice: © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
