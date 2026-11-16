@@ -6,6 +6,19 @@ Coursework exploring quiz functionality, Cypress component tests, and deployment
 
 **Built with:** React, TypeScript, Express, MongoDB, Cypress.
 
+## What I built
+
+- Built a React quiz connected to an Express and MongoDB question API.
+- Added Cypress component tests, fixtures, and test configuration.
+- Worked on CI/CD examples for test and deployment workflows; the current files remain under github-sample.
+
+## Explore the source
+
+- [client/src/components/Quiz.tsx](client/src/components/Quiz.tsx) — Quiz interface.
+- [cypress/component/Quiz.cy.jsx](cypress/component/Quiz.cy.jsx) — Component tests.
+- [github-sample/dev.workflow.yml](github-sample/dev.workflow.yml) — Example test workflow.
+- [github-sample/main.workflow.yml](github-sample/main.workflow.yml) — Example deployment workflow.
+
 ## Run locally
 
 Requires Node.js/npm and MongoDB. From the repository root:
