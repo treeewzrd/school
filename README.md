@@ -1,6 +1,8 @@
 # CI/CD Quiz Coursework
 
-![Status](https://img.shields.io/badge/status-coursework-blue)
+**Coursework for school**
+
+![Coursework](https://img.shields.io/badge/Coursework-blue)
 
 Coursework exploring quiz functionality, Cypress component tests, and deployment pipeline examples. Related quiz work is in [TECH-QUIZ](https://github.com/treeewzrd/TECH-QUIZ).
 
